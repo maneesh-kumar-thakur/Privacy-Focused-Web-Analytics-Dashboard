@@ -78,6 +78,6 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and this
 
 ---
 
-[Unreleased]: https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/compare/v1.0.0-beta.1...HEAD
-[1.0.0-beta.1]: https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/releases/tag/v1.0.0-beta.1
-[0.1.0]: https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/commits/main
+[Unreleased]: https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/compare/v1.0.0-beta.1...HEAD
+[1.0.0-beta.1]: https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/releases/tag/v1.0.0-beta.1
+[0.1.0]: https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/commits/main

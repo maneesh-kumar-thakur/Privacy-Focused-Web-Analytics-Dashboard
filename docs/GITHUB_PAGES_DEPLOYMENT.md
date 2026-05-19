@@ -5,7 +5,7 @@
 ## Overview
 
 Your landing page is now configured to automatically deploy to GitHub Pages at:
-**https://maneesh-relanto.github.io/Privacy-Focused-Web-Analytics-Dashboard/**
+**https://maneesh-kumar-thakur.github.io/Privacy-Focused-Web-Analytics-Dashboard/**
 
 ## How It Works
 
@@ -59,7 +59,7 @@ This builds the client into `dist/spa/` with the correct base path configured.
 
 ## Verifying Deployment
 
-1. Navigate to https://maneesh-relanto.github.io/Privacy-Focused-Web-Analytics-Dashboard/
+1. Navigate to https://maneesh-kumar-thakur.github.io/Privacy-Focused-Web-Analytics-Dashboard/
 2. Check the "Actions" tab in your GitHub repository to see workflow status
 3. If deployment fails, check the workflow logs for error details
 

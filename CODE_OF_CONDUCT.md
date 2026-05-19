@@ -44,7 +44,7 @@ This Code of Conduct applies within all community spaces — GitHub Issues, Pull
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by opening a [GitHub issue](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/issues) or contacting the maintainers directly through GitHub.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by opening a [GitHub issue](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/issues) or contacting the maintainers directly through GitHub.
 
 All complaints will be reviewed and investigated promptly and fairly.
 

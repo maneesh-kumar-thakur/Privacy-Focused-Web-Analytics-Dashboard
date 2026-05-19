@@ -29,8 +29,8 @@ You don't have to write code to contribute. Here are several ways to help:
 
 | Contribution | How |
 |---|---|
-| 🐛 Report a bug | [Open an issue](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/issues/new?template=bug_report.md) |
-| 💡 Suggest a feature | [Start a discussion](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/ideas) |
+| 🐛 Report a bug | [Open an issue](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/issues/new?template=bug_report.md) |
+| 💡 Suggest a feature | [Start a discussion](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/ideas) |
 | 📖 Improve documentation | Edit a file in `docs/` and open a PR |
 | 🧪 Write tests | See `tests/` folder |
 | 🌍 Help with translations | Open a discussion first |
@@ -162,7 +162,7 @@ docs: Update deployment guide for Railway v3
 ## Reporting Bugs
 
 Before opening an issue, please:
-1. Search [existing issues](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/issues) to avoid duplicates
+1. Search [existing issues](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/issues) to avoid duplicates
 2. Try the latest version on `main`
 
 When reporting, include:
@@ -176,7 +176,7 @@ When reporting, include:
 
 ## Suggesting Features
 
-Before building something big, [open a discussion](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/ideas) first. This avoids wasted effort and lets us align on direction.
+Before building something big, [open a discussion](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/ideas) first. This avoids wasted effort and lets us align on direction.
 
 For small improvements, a PR with a clear description is fine directly.
 
@@ -184,7 +184,7 @@ For small improvements, a PR with a clear description is fine directly.
 
 ## Questions?
 
-- [GitHub Discussions Q&A](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/q-a)
+- [GitHub Discussions Q&A](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/q-a)
 - Check the [Developer Guide](docs/DEVELOPER_GUIDE.md)
 
 ---

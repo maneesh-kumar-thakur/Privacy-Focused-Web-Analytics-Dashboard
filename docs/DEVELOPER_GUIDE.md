@@ -32,7 +32,7 @@ This is a self-hosted web analytics dashboard designed with privacy in mind. Dev
 
 ```bash
 # Clone the repository
-git clone https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard.git
+git clone https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard.git
 cd Privacy-Focused-Web-Analytics-Dashboard
 
 # Install dependencies
@@ -408,7 +408,7 @@ pnpm run build:pages
    ```
 
 Your landing page will be available at:
-https://maneesh-relanto.github.io/Privacy-Focused-Web-Analytics-Dashboard/
+https://maneesh-kumar-thakur.github.io/Privacy-Focused-Web-Analytics-Dashboard/
 
 ---
 

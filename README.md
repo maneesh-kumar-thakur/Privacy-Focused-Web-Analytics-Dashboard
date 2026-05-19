@@ -5,7 +5,7 @@
 A self-hosted analytics solution designed with privacy at its core. Complete data ownership, no cookies, and transparent data collection practices.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Beta](https://img.shields.io/badge/Status-Beta%20v1.0.0-orange)](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/releases/tag/v1.0.0-beta.1)
+[![Status: Beta](https://img.shields.io/badge/Status-Beta%20v1.0.0-orange)](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/releases/tag/v1.0.0-beta.1)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-7.1-646CFF?logo=vite)](https://vitejs.dev)
@@ -40,10 +40,10 @@ Complete setup guide with:
 
 If you cloned this repo and tried it out — we'd love to hear from you!
 
-- ✅ **It worked great** → [Tell us what you built](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/show-and-tell)
-- ❓ **Ran into a problem** → [Ask for help](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/q-a)
-- 💡 **Have a feature idea** → [Share it](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/ideas)
-- 🐛 **Found a bug** → [Open an issue](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/issues/new)
+- ✅ **It worked great** → [Tell us what you built](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/show-and-tell)
+- ❓ **Ran into a problem** → [Ask for help](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/q-a)
+- 💡 **Have a feature idea** → [Share it](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/ideas)
+- 🐛 **Found a bug** → [Open an issue](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/issues/new)
 
 > Your feedback directly shapes what gets built next. Even a short "it worked!" helps.
 
@@ -290,8 +290,8 @@ Ready to deploy? Choose your platform:
 
 Found a bug? Have a feature request?
 
-- **Report Issues**: [GitHub Issues](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/issues)
-- **Ask Questions**: [GitHub Discussions](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/discussions)
+- **Report Issues**: [GitHub Issues](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/issues)
+- **Ask Questions**: [GitHub Discussions](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/discussions)
 - **Check Documentation**: [docs/](./docs/) folder for comprehensive guides
 - **Read Developer Guide**: [DEVELOPER_GUIDE.md](./docs/DEVELOPER_GUIDE.md)
 
@@ -345,12 +345,12 @@ Discussions are open — this is the best place to share thoughts, ask questions
 
 | Channel | Use it for |
 |---|---|
-| [💡 Ideas](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/ideas) | Feature requests and suggestions |
-| [🙋 Q&A](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/q-a) | Setup help and how-to questions |
-| [🎉 Show & Tell](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/show-and-tell) | Share what you built with it |
-| [💬 General](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/discussions) | Anything else |
+| [💡 Ideas](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/ideas) | Feature requests and suggestions |
+| [🙋 Q&A](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/q-a) | Setup help and how-to questions |
+| [🎉 Show & Tell](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/discussions/categories/show-and-tell) | Share what you built with it |
+| [💬 General](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/discussions) | Anything else |
 
-**[→ Open a Discussion](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/discussions/new)**
+**[→ Open a Discussion](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/discussions/new)**
 
 ---
 
@@ -368,8 +368,8 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 ## 🔗 Links & Resources
 
 **Repository:**
-- [GitHub Repository](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard)
-- [GitHub Releases](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/releases)
+- [GitHub Repository](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard)
+- [GitHub Releases](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/releases)
 - [Changelog](CHANGELOG.md)
 - [Contributing](CONTRIBUTING.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
@@ -401,4 +401,4 @@ PrivacyMetrics is built on the principle that analytics don't require invasive t
 
 **Made with ❤️ for privacy-conscious developers**
 
-Questions? Start with [DEVELOPER_GUIDE.md](./docs/DEVELOPER_GUIDE.md), [join the discussion](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/discussions), or [open an issue](https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard/issues). 🚀
+Questions? Start with [DEVELOPER_GUIDE.md](./docs/DEVELOPER_GUIDE.md), [join the discussion](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/discussions), or [open an issue](https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard/issues). 🚀
