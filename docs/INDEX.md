@@ -215,8 +215,8 @@ We have created comprehensive documentation to help you get started. Below is th
 
 ## 🔗 Quick Links
 
-- **GitHub Repository:** https://github.com/Maneesh-Relanto/Privacy-Focused-Web-Analytics-Dashboard
-- **GitHub Pages (Landing):** https://maneesh-relanto.github.io/Privacy-Focused-Web-Analytics-Dashboard/
+- **GitHub Repository:** https://github.com/maneesh-kumar-thakur/Privacy-Focused-Web-Analytics-Dashboard
+- **GitHub Pages (Landing):** https://maneesh-kumar-thakur.github.io/Privacy-Focused-Web-Analytics-Dashboard/
 - **Live Development:** http://localhost:8080 (after running `pnpm run dev`)
 
 ---

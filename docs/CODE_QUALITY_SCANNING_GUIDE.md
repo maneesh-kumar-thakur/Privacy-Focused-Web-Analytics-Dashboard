@@ -85,7 +85,7 @@ npm run format.fix        # Auto-format with Prettier
 
 2. **Add Your Repository**
    - Click "Import an organization"
-   - Select `Maneesh-Relanto` organization
+   - Select `maneesh-kumar-thakur` organization
    - Select `Privacy-Focused-Web-Analytics-Dashboard` repository
 
 3. **Configure GitHub Action**
@@ -122,8 +122,8 @@ jobs:
    - Create file: `sonar-project.properties`
 
 ```properties
-sonar.projectKey=Maneesh-Relanto_Privacy-Focused-Web-Analytics-Dashboard
-sonar.organization=maneesh-relanto
+sonar.projectKey=maneesh-kumar-thakur_Privacy-Focused-Web-Analytics-Dashboard
+sonar.organization=maneesh-kumar-thakur
 sonar.sources=client,server
 sonar.tests=
 sonar.test.inclusions=**/*.test.ts,**/*.test.tsx,**/*.spec.ts,**/*.spec.tsx
